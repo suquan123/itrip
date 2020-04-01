@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="itripauth:war exploded" />
+      <artifact name="itripsearch:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc24ea73-1e15-4390-abce-75e03ecbebf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/byte-buddy-1.6.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/classmate-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/commons-pool2-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/fastjson-1.2.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/jackson-core-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/jackson-databind-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/mapstruct-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/reflections-0.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/slf4j-api-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/slf4j-log4j12-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-context-support-4.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-data-redis-1.6.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-core-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-schema-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-spi-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-spring-web-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-swagger-common-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-swagger-ui-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/springfox-swagger2-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/swagger-annotations-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/swagger-models-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/itripauth/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripauth/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/itripbeans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/dto/Dto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/dto/InputDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripAreaDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotelExtendProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotelFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotelTempStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripHotelTradingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripLabelDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripOrderLinkUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripProductStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripTradeEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/pojo/ItripUserLinkUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/ItripAreaDicVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/ItripImageVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/ItripLabelDicVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/ItripTokenVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/ItripWechatTokenVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/TempVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/comment/ItripAddCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/comment/ItripHotelDescVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/comment/ItripListCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/comment/ItripScoreCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/comment/ItripSearchCommentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/HotelVideoDescVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/ItripSearchDetailsHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/ItripSearchFacilitiesHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/ItripSearchPolicyHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/SearchHotCityVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/SearchHotelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotelroom/ItripHotelRoomVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotelroom/SearchHotelRoomVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripAddHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripListHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripModifyHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripOrderLinkUserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripPersonalHotelOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripPersonalOrderRoomVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ItripSearchOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/PreAddOrderVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/RoomStoreVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/order/ValidateRoomStoreVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/store/StoreVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/userinfo/ItripAddUserLinkUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/userinfo/ItripModifyUserLinkUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/userinfo/ItripSearchUserLinkUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/userinfo/ItripUserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/target/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbeans/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/byte-buddy-1.6.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/classmate-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/commons-pool2-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/fastjson-1.2.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/jackson-core-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/jackson-databind-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/mapstruct-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/reflections-0.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/slf4j-api-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/slf4j-log4j12-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-context-support-4.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-data-redis-1.6.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-core-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-schema-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-spi-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-spring-web-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-swagger-common-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-swagger-ui-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/springfox-swagger2-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/swagger-annotations-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/swagger-models-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/areadic/ItripAreaDicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/areadic/ItripAreaDicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/comment/ItripCommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotel/ItripHotelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotel/ItripHotelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelextendproperty/ItripHotelExtendPropertyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelextendproperty/ItripHotelExtendPropertyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelfeature/ItripHotelFeatureMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelfeature/ItripHotelFeatureMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelorder/ItripHotelOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelorder/ItripHotelOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelroom/ItripHotelRoomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hotelroom/ItripHotelRoomMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hoteltempstore/ItripHotelTempStoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hoteltempstore/ItripHotelTempStoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hoteltradingarea/ItripHotelTradingAreaMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/hoteltradingarea/ItripHotelTradingAreaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/image/ItripImageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/image/ItripImageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/labeldic/ItripLabelDicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/labeldic/ItripLabelDicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/orderlinkuser/ItripOrderLinkUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/orderlinkuser/ItripOrderLinkUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/productstore/ItripProductStoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/productstore/ItripProductStoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/tradeends/ItripTradeEndsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/tradeends/ItripTradeEndsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/user/ItripUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/user/ItripUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/userlinkuser/ItripUserLinkUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/userlinkuser/ItripUserLinkUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/target/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripdao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/itripsearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/byte-buddy-1.6.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/classmate-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/commons-pool2-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/fastjson-1.2.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/jackson-core-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/jackson-databind-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/mapstruct-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/reflections-0.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/slf4j-api-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/slf4j-log4j12-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-context-support-4.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-data-redis-1.6.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-core-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-schema-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-spi-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-spring-web-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-swagger-common-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-swagger-ui-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/springfox-swagger2-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/swagger-annotations-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/swagger-models-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/byte-buddy-1.6.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/classmate-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/commons-pool2-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/fastjson-1.2.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/jackson-core-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/jackson-databind-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/javassist-3.21.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/mapstruct-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/reflections-0.9.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/slf4j-api-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/slf4j-log4j12-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-context-support-4.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-data-redis-1.6.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-core-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-schema-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-spi-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-spring-web-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-swagger-common-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-swagger-ui-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/springfox-swagger2-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/swagger-annotations-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/swagger-models-1.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriptrade/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/BigDecimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/ChineseToEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/DtoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/EmptyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/HtmlEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/SQLTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/SystemConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/UrlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/UserAgentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/ValidationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/target/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itriputils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mintty.exe.stackdump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/itripbeans/target/" />
+    <ignored path="$PROJECT_DIR$/itriputils/target/" />
+    <ignored path="$PROJECT_DIR$/itripdao/target/" />
+    <ignored path="$PROJECT_DIR$/itripauth/target/" />
+    <ignored path="$PROJECT_DIR$/itripsearch/target/" />
+    <ignored path="$PROJECT_DIR$/itripbiz/target/" />
+    <ignored path="$PROJECT_DIR$/itriptrade/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/itripbeans/pom.xml" />
+        <option value="$PROJECT_DIR$/itriputils/pom.xml" />
+        <option value="$PROJECT_DIR$/itripdao/pom.xml" />
+        <option value="$PROJECT_DIR$/itripsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/itriptrade/pom.xml" />
+        <option value="$PROJECT_DIR$/itripbiz/pom.xml" />
+        <option value="$PROJECT_DIR$/itripauth/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/itripauth/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/itripsearch/src/main/webapp/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="775" />
+    <option name="y" value="7" />
+    <option name="width" value="1311" />
+    <option name="height" value="1004" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itrip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\itrip\itriputils\src\main\java" />
+      <recent name="E:\itrip\itripbeans\src\main\java" />
+      <recent name="E:\itrip\itripdao\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/auth/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="itripauth:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/auth" />
+          </settings>
+        </artifact>
+        <artifact name="itripsearch:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/search" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_itrip" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62566" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="itripauth:war exploded" />
+          <artifact name="itripsearch:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc24ea73-1e15-4390-abce-75e03ecbebf2" name="Default Changelist" comment="" />
+      <created>1585557635368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585557635368</updated>
+      <workItem from="1585557636622" duration="3216000" />
+      <workItem from="1585578101365" duration="767000" />
+      <workItem from="1585614148633" duration="2662000" />
+      <workItem from="1585618027780" duration="727000" />
+      <workItem from="1585704112023" duration="467000" />
+      <workItem from="1585706480553" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8225000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="455" y="9" width="874" height="669" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3627451" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.92" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.328" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.31689572" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="233" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripsearch/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripauth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripsearch/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripbiz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itriptrade/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripbeans/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itriputils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/user/ItripUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripdao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripauth/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripbeans/src/main/java/cn/itrip/beans/vo/hotel/SearchHotelVO.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itripdao/src/main/java/cn/itrip/dao/user/ItripUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itriputils/src/main/java/cn/itrip/common/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itrip</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
